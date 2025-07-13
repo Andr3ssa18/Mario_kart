@@ -1,4 +1,4 @@
-<h1>Desafio de projeto do Felipão: Mario Kart.JS</h1>
+<h1>Desafio de projeto da DIO: Mario Kart.JS</h1>
 
   <table>
         <tr>
@@ -12,7 +12,7 @@
         </tr>
     </table>
 
-<h2>Players</h2>
+<h2>🍄Players</h2>
       <table style="border-collapse: collapse; width: 800px; margin: 0 auto;">
         <tr>
             <td style="border: 1px solid black; text-align: center;">
@@ -102,6 +102,23 @@
 <input type="checkbox" id="vitoria-item" />
 <label for="vitoria-item">Ao final, vence quem acumulou mais pontos</label>
 
-<h2>Extras</h2>
-  **confroto:**Sortear aleatoriamente se é um casco(-1 ponto) ou um bomba(-2 pontos), quem vence o confronto ganha um turbo (+ 1ponto) aleatoriamente.
-  **personagens:**Se voce digitar o nome de um dos personagens, vai automaticamente aparecer seus atributos (velocidade, manobrabilidade e poder), deixei disponivel tambem para o jogador 2
+<h2>Ferramentas usadas</h2>
+<table style="border-collapse: collapse; width: 800px; margin: 0 auto;">
+  <tr>
+    <td>
+      <p>linguagem:</p>
+      <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </td>
+    <td>
+      <p>Ambiente de Execução:</p>
+      <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    </td>
+    <td>
+      <p>gerenciador de pacotes:</p>
+      <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+    </td>
+  </tr>
+</table>
+<h2>⭐Extras</h2>
+<h4>confroto:</h4>Sortear aleatoriamente se é um casco(-1 ponto) ou um bomba(-2 pontos), quem vence o confronto ganha um turbo (+ 1ponto) aleatoriamente.
+<h4>personagens:</h4> Se voce digitar o nome de um dos personagens, vai automaticamente aparecer seus atributos (velocidade, manobrabilidade e poder), deixei disponivel tambem para o jogador 2
